@@ -1,2 +1,4 @@
 #!/bin/sh
-echo 2022/06/19
+echo `date +"%Y-%m-%d %H:%M:%S"`
+
+ping www.baidu.com
